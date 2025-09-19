@@ -2,7 +2,7 @@
 
 <img width="1745" height="913" alt="intro_image" src= https://github.com/urunna-glad/DANO-AIRLINE-SATISFACTION-ANALYSIS/blob/main/intro_image.png/>
 
-## 📌 Project Introduction 
+## 📌 Introduction 
 PowerBI dashboard analyzing Dano Airline's performance and customer satisfaction
 This is **Power Bi airline passenger satisfaction analysis**  of an imaginary airline called Dano Airline. The project is to analyze and derive insights into customer experience and overall satisfaction and help the airline make data driven decisions.
 The dataset includes passenger demographics, travel type, class, delays, and service quality ratings and it comprises of two pages (Overview and Insights).
