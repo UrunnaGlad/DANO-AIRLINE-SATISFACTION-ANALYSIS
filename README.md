@@ -23,7 +23,7 @@ The dataset includes passenger demographics, travel type, class, delays, and ser
 ## 🛠️ Steps Taken
 1. **Data Collection & Import**  
    - Imported `Dano_Airline_Data.xlsx` into Power BI.  
-   - Reviewed dataset containing 24 columns with demographic, travel, and satisfaction-related data.  
+   - Reviewed dataset containing 24 columns with demographic, travel, and satisfaction related data.  
 
 2. **Data Cleaning & Preparation**  
    - Checked for missing/null values and handled inconsistencies.  
